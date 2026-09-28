@@ -1,0 +1,1 @@
+![App view](./assets/screenshot.jpeg)
